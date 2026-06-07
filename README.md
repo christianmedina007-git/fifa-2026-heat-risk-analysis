@@ -96,7 +96,7 @@ Tableau Dashboard (4 views)
 
 ## 📊 Dashboard
 
-🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/christianmedina007)**
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/christian.medina8427/viz/FIFA2026HeatRiskAnalysis/Dashboard1)**
 
 The dashboard includes:
 - **Match Risk Map** — all 16 host cities color-coded and sized by maximum risk tier
