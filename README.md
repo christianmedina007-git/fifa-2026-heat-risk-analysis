@@ -218,7 +218,7 @@ pip install pandas numpy openpyxl jupyter
 - 🎓 B.S. Political Science, University of North Texas | M.S. Business Analytics (in progress)
 - 💼 Assistant Property Manager → Transitioning to Data Analytics
 - 🔗 [GitHub](https://github.com/christianmedina007-git)
-- 🔗 [LinkedIn](https://linkedin.com/in/christianmedina)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/christianmedina1)
 
 ---
 
